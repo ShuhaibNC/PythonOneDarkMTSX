@@ -8,11 +8,11 @@
     }
 
     styles: [
-        "codetag"     #FF0000    #A8C023    @_
+        "codetag"     #FF0000    #ADEBFF    @_
         "comment"     #9C938A    #808080    @_
         "default"     #282828    #A9B7C6    @_
         "decorator"   #05A7B0    #E0ADFF    @_
-        "docstring"   #048600    #629755    @I
+        "docstring"   #048600    #ADEBFF    @I
         "dunder"      #3165C5    #85D8FF    @_
         "function"    #1E6F94    #E0ADFF    @_
         "keyword"     #C70808    #FF877D    @_
