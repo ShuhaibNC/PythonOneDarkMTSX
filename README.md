@@ -6,6 +6,3 @@ MT Manager version 2.16.0 at least
 
 # Preview 
 ![preview](img/preview.jpg)
-
-## Thanks to
-[ SENPAi-03 ](https://github.com/SENPAi-03)
